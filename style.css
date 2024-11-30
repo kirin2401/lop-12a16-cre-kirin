@@ -23,10 +23,10 @@ body {
   line-height: 25px;
   padding: 13px;
   display: flex;
-  justify-content: center
+  justify-content: center;
 }
 
-.thuxemsao{
+.thuxemsao {
   color: rgb(0, 0, 0);
   font-family: "Jaro", sans-serif;
   font-optical-sizing: auto;
@@ -34,3 +34,4 @@ body {
   font-style: normal;
   font-size: 25px;
 }
+
