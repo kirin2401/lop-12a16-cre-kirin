@@ -19,7 +19,7 @@ body {
   font-style: normal;
   font-size: 45px;
   text-align: left;
-  margin-left: 15%;
+  margin-left: 14%;
 }
 
 .tohai {
@@ -30,7 +30,7 @@ body {
   font-style: normal;
   font-size: 45px;
   text-align: left;
-  margin-left: 15%;
+  margin-left: 16%;
 }
 
 .toba{
@@ -52,7 +52,7 @@ body {
   font-style: normal;
   font-size: 45px;
   text-align: left;
-  margin-left: 15%;
+  margin-left: 17%;
   margin-right: 5%;
 }
     
@@ -65,6 +65,16 @@ body {
  display: inline-block;
 }
 .bandau2{
+  display: inline-block;
+ margin-left: 10%;
+}
+
+.bandau3{
+  display: inline-block;
+ margin-left: 15%;
+}
+
+.bandau4{
   display: inline-block;
  margin-left: 10%;
 }
